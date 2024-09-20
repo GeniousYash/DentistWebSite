@@ -1,0 +1,25 @@
+.slidermain{
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+
+.slick-arrow:before{
+    color: #313131;
+    font-size: 50px;
+}
+
+.slick-prev{
+    top: -60px;
+    left: 80%;
+}
+
+.slick-next {
+    right: 10%;
+    top: -60px;
+}
+
+.Docimages{
+    scale: 1.2 !important;
+    object-fit: cover !important;
+}

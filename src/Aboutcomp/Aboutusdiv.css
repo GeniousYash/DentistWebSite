@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'LibreFranklin';
+    src: url('../Fonts/LibreFranklin/LibreFranklin-Regular.ttf');
+  }
+
+.aboutpagehead{
+    font-family: LibreFranklin !important;
+    font-weight: 100 !important;
+}
+
+.img1{
+    margin-top: -150px;
+    width: 100% !important;
+    /* height: 100% !important; */
+    object-fit: cover !important;
+    scale: 1.1;
+}
+
+.img2{
+    margin-top: -40px;
+    width: 100% !important;
+    /* height: 100% !important; */
+    object-fit: cover !important;
+    scale: 1.01 !important;
+    object-position: 0% 0%;
+}

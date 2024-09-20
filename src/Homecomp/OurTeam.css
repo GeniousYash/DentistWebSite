@@ -1,0 +1,5 @@
+.btnhover:hover{
+    background-color: #313131;
+    color: #f9fcfd;
+    transition: 250ms ease-in-out;
+}
